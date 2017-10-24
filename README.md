@@ -1,19 +1,14 @@
 # XiaoBot
 [![Discord](https://discordapp.com/api/guilds/252317073814978561/embed.png)](https://discord.gg/fqQF8mc)
 
-> Note: This source code is no longer public due to code theft.
+> Note: This source code, as well as the bot it goes with, are no longer public.
 
-The Discord Bot XiaoBot, a Discord bot coded in
-JavaScript with [discord.js](https://github.com/hydrabolt/discord.js) using the
+XiaoBot is a Discord bot coded in JavaScript with
+[discord.js](https://discord.js.org) using the
 [Commando](https://github.com/Gawdl3y/discord.js-commando) command framework.
-
-## Adding it to Your Server
-Visit XiaoBot's page on the Discord Bots list, which is quite fancy, with
-[this link](https://discordbots.org/bot/278305350804045834).
 
 ## Home Server
 You can join the home server with [this link](https://discord.gg/fqQF8mc).
 
 ## Licensing
-The bot is licensed under an [ISC License](https://opensource.org/licenses/ISC).
 See the file `LICENSE.md` for more information.
